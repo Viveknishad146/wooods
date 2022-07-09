@@ -1,0 +1,21 @@
+.navbar{
+    color: white;
+    background-color: black;
+    height:5%;
+}
+li {
+    display: inline;
+    padding-inline: 15px;
+  }
+
+.banner{
+    width: 70%;
+    height: 30%;
+    margin:auto;
+}
+.heading{
+    align-content: center;
+    font-family: sans-serif;
+    color: black;
+    
+}
