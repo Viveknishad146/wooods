@@ -29,7 +29,7 @@
         <li>OURWORK</li>
         <li>CONTACTS</li>
     </ul>
-    <ul><li>ABOUT</li></ul>
+    <ul><li>Managed by: Vikram Singh</li></ul>
 </div>
 </body>
 </html>
