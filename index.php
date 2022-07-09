@@ -77,12 +77,9 @@ include 'header.php';
         </div>
     </div>
     <!----------------part 5------------------------->
-    <div class="contact" style="background-color: white; height: 70%; margin:10%; text-align: center; color: black;">
-        <i><b><h1>Feel free to contact us</h1></b></i>
-        <i><h5>+91 9140231978</h5></i>
-    </div>
+    
     <!---------------part 6------------------------>
-    <div>
+    <div div style="margin: 10%;">
         <img src="images/banner4.jpg" class="img-fluid" alt="Responsive image"></img>
     </div>
     <!--------------part 7------------------------------> 
