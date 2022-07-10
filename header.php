@@ -25,9 +25,9 @@
 <body>
 <div class="navbar">
     <ul>
-        <li>HOME</li>
-        <li>OURWORK</li>
-        <li>CONTACTS</li>
+        <a href="#"><li>HOME</li><a>
+        <a href="#"><li>OURWORK</li><a>
+        <a href="contactUs.html"><li>CONTACT US</li><a>
     </ul>
     <ul><li>Managed by: Vikram Singh</li></ul>
 </div>
