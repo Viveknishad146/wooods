@@ -27,7 +27,7 @@
     <ul>
         <a href="#"><li>HOME</li><a>
         <a href="#"><li>OURWORK</li><a>
-        <a href="contactUs.html"><li>CONTACT US</li><a>
+        <a href="contactUs.html"><li>CONTACT</li><a>
     </ul>
     <ul><li>Managed by: Vikram Singh</li></ul>
 </div>
